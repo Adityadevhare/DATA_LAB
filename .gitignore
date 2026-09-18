@@ -73,7 +73,7 @@ temp/
 uploads/
 outputs/
 generated/
-
+storage/
 *.log
 
 
