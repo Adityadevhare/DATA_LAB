@@ -1,4 +1,4 @@
-# ML Model Comparison Lab
+# DATA Lab
 
 A web-based data preparation, quality analysis, visualization, and export platform designed to help users understand and clean tabular datasets before using them for machine learning or further analysis.
 
